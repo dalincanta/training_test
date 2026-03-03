@@ -5,3 +5,4 @@ A test repository to learn git
 
 - practice git
 - have fun!
+- eat lunch
